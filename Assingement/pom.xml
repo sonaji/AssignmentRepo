@@ -905,7 +905,7 @@
 			<dependency>
 				<groupId>org.springframework</groupId>
 				<artifactId>spring-expression</artifactId>
-				<version>3.2.5.RELEASE</version>
+				<version>5.2.21.RELEASE</version>
 			</dependency>
 			<dependency>
 				<groupId>org.springframework</groupId>
@@ -1231,7 +1231,7 @@
 			<dependency>
 				<groupId>org.springframework</groupId>
 				<artifactId>spring-expression</artifactId>
-				<version>3.2.5.RELEASE</version>
+				<version>5.2.21.RELEASE</version>
 			</dependency>
 			<dependency>
 				<groupId>org.springframework</groupId>
